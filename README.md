@@ -30,10 +30,7 @@ The chatbot supports:
     ├── app.py
     ├── .env.example
     ├── requirements.txt
-    ├── README.md
-    ├── screenshots/
-    │   ├── chatbot-ui.png
-    │   └── demo.gif
+    ├── README.md   
     └── .gitignore
 
 ## ⚙️ Installation
