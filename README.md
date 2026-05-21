@@ -28,7 +28,7 @@ The chatbot supports:
     AI-Chatbot/
     │
     ├── app.py
-    ├── .env.example
+    ├── .env
     ├── requirements.txt
     ├── README.md   
     └── .gitignore
